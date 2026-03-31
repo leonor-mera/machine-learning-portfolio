@@ -2,6 +2,12 @@
 
 This repository showcases practical machine learning projects focused on solving real-world problems using data.
 
+## 📌 Practical Applications
+
+Customer segmentation for targeted marketing strategies
+Spam detection for automated filtering systems
+Predictive modeling for performance analysis
+
 ---
 
 ## 📌 About Me
