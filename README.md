@@ -1,6 +1,6 @@
-# 🧠 Machine Learning Portfolio - Leonor Mera
+# 🧠 Machine Learning & Data Systems Portfolio
 
-This portfolio showcases selected machine learning projects completed as part of the **Stanford University Machine Learning Specialization on Coursera**, led by Andrew Ng.
+This repository showcases practical machine learning projects focused on solving real-world problems using data.
 
 ---
 
@@ -65,3 +65,6 @@ machine-learning-portfolio-leonor-mera/
 
 │         └── Customer_Clustering.ipynb
 
+## Background
+
+These projects were developed as part of the Stanford Machine Learning Specialization (Andrew Ng) and extended with additional analysis and improvements.
